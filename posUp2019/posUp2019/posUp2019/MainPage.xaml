@@ -7,10 +7,8 @@
              x:Class="posUp2019.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
+      <Button Text="ir para home" Clicked="Button_Clicked" />
+      
     </StackLayout>
 
 </ContentPage>

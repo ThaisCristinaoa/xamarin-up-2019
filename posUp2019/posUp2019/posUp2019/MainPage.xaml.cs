@@ -1,4 +1,5 @@
-﻿using System;
+﻿using posUp2019.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Linq;
@@ -16,6 +17,14 @@ namespace posUp2019
         public MainPage()
         {
             InitializeComponent();
+            var vm = new MainViewModel();
+            BindingContext = vm;
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Application.Current.MainPage.Navigation.PushAsync(new HomePage());
+
         }
     }
 }

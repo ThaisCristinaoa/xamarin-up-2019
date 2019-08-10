@@ -1,0 +1,13 @@
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.csprojAssemblyReference.cache
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.csproj.CoreCompileInputs.cache
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.AssemblyInfoInputs.cache
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.AssemblyInfo.cs
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.dll
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\posUp2019.pdb
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\bin\Debug\netstandard2.0\posUp2019.deps.json
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\bin\Debug\netstandard2.0\posUp2019.dll
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\bin\Debug\netstandard2.0\posUp2019.pdb
+C:\dev\trabalhos\posUp2019\posUp2019\posUp2019\obj\Debug\netstandard2.0\XamlC.stamp
